@@ -8,4 +8,4 @@
 2.  Вставьте токен вашего бота в
     > ```BOT_TOCKEN = ''```
 3.  Запустите бота
-    > python main.py
+    > python run.py
